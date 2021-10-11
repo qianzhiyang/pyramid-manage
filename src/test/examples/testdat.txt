@@ -1,0 +1,4 @@
+Pyramid(id=1, name=qian, leftVal=1, rightVal=12)
+Pyramid(id=2, name=qian-son1-left, leftVal=4, rightVal=5)
+Pyramid(id=3, name=qian-son2-left, leftVal=2, rightVal=3)
+Pyramid(id=4, name=qian-son3-right, leftVal=6, rightVal=7)
